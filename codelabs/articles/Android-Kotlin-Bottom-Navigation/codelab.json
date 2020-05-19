@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-05-19T17:49:30-05:00",
+  "id": "Android-Kotlin-Bottom-Navigation",
+  "duration": 0,
+  "title": "Android in Kotlin: Bottom Navigation",
+  "authors": "Kyle Dahn",
+  "summary": "Android in Kotlin: Bottom Navigation",
+  "source": "Android-Kotlin-Bottom-Navigation.md",
+  "theme": "",
+  "status": [
+    "draft"
+  ],
+  "category": [
+    "android"
+  ],
+  "tags": [
+    "android"
+  ],
+  "feedback": "https://github.com/MoonWolf125/Codelabs",
+  "url": "Android-Kotlin-Bottom-Navigation"
+}
