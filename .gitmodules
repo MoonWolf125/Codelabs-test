@@ -1,0 +1,12 @@
+[submodule "codelabs/submodules/Android"]
+	path = codelabs/submodules/Android
+	url = https://github.com/MoonWolf125/Android-Kotlin-Notifications.git
+[submodule "codelabs/submodules/Android-Kotlin-Notifications"]
+	path = codelabs/submodules/Android-Kotlin-Notifications
+	url = https://github.com/MoonWolf125/Android-Kotlin-Notifications.git
+[submodule "codelabs/submodules/Android-Kotlin-Bottom-Navigation"]
+	path = codelabs/submodules/Android-Kotlin-Bottom-Navigation
+	url = https://github.com/MoonWolf125/Android-Kotlin-Bottom-Navigation.git
+[submodule "codelabs/submodules/Android-Kotlin-Drawer-Navigation"]
+	path = codelabs/submodules/Android-Kotlin-Drawer-Navigation
+	url = https://github.com/MoonWolf125/Android-Kotlin-Drawer-Navigation
