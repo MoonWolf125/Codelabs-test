@@ -3,13 +3,13 @@
   "format": "html",
   "prefix": "https://storage.googleapis.com",
   "mainga": "UA-49880327-14",
-  "updated": "2020-05-19T19:25:34-05:00",
-  "id": "Android-Kotlin-Bottom-Navigation",
+  "updated": "2020-05-19T19:03:33-05:00",
+  "id": "Android-Kotlin-Notifications",
   "duration": 0,
-  "title": "Android in Kotlin: Bottom Navigation",
+  "title": "Android in Kotlin: Notifications",
   "authors": "Kyle Dahn",
-  "summary": "Android in Kotlin: Bottom Navigation",
-  "source": "Android-Kotlin-Bottom-Navigation.md",
+  "summary": "Android in Kotlin: Notifications",
+  "source": "Android-Kotlin-Notifications.md",
   "theme": "",
   "status": [
     "draft"
@@ -21,5 +21,5 @@
     "android"
   ],
   "feedback": "https://github.com/MoonWolf125/Codelabs",
-  "url": "Android-Kotlin-Bottom-Navigation"
+  "url": "Android-Kotlin-Notifications"
 }
