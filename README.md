@@ -383,3 +383,9 @@ If gulp startup times are really slow, try removing `node_modules/` or running
 ```text
 $ npm dedupe
 ```
+
+## Notes
+
+Triple tack marks render to `<pre><code></code></pre>`. This isn't always nice for URLs since // is a common comment format.
+
+Link declarations that start with 'Download' do NOT turn into buttons. They need a `<paper-button class="colored" raised="">Text Here</paper-button>` added to them
